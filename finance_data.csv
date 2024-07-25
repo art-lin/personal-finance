@@ -1,0 +1,9 @@
+# Example data
+
+date,amount,category,description
+23-07-2024,20.0,Expense,expense
+23-07-2024,1.0,Income,income
+22-07-2024,500,Income,income
+21-07-2024,200,Expense,expense
+20-07-2024,50,Income,income
+19-07-2024,25,Expense,expense
